@@ -18,7 +18,6 @@ bootJar{
     archiveFileName = 'app.jar'
 }
 
->>>>>>> 1b8d200 (빌드 후 생성된 Jar 파일 이름 고정)
 repositories {
     mavenCentral()
 }
